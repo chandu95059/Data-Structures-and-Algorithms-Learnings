@@ -1,4 +1,4 @@
-heystack = 'abcxyz'
+heystack = 'abczyzxyzxyz'
 needle = 'xyz'
 
 for i in range((len(heystack)-len(needle))+1):
